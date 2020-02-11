@@ -21,3 +21,8 @@ body {
     border: 5px solid lightblue;
 }
 
+footer {
+  border: 5px solid black;
+    margin: 5;
+    padding: 10;
+}
