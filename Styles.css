@@ -1,1 +1,23 @@
+header {
+  
+  border: 5px solid black;
+    margin: 5;
+    padding: 10;
+   
+  }
+.pb {
+width: 100%;
+}
+
+.pb-container{
+  width: 250px;
+}
+
+body {
+  
+  background-color: white;
+    margin: 1;
+    padding: 10;
+    border: 5px solid lightblue;
+}
 
